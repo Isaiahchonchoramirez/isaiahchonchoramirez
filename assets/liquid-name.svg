@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="1200" height="360" role="img" aria-labelledby="title desc">
+  <title id="title">Isaiah Ramirez liquid logo</title>
+  <desc id="desc">Animated maize-and-blue liquid shapes merge around the name Isaiah Ramirez.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#020712" />
+      <stop offset="0.52" stop-color="#06162f" />
+      <stop offset="1" stop-color="#00274C" />
+    </linearGradient>
+    <linearGradient id="maizeBlue" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFCB05" />
+      <stop offset="0.46" stop-color="#2F80ED" />
+      <stop offset="1" stop-color="#00D4FF" />
+    </linearGradient>
+    <radialGradient id="blob" cx="38%" cy="30%" r="72%">
+      <stop offset="0" stop-color="#FFF7D1" />
+      <stop offset="0.3" stop-color="#FFCB05" />
+      <stop offset="0.72" stop-color="#2F80ED" />
+      <stop offset="1" stop-color="#00D4FF" stop-opacity="0.84" />
+    </radialGradient>
+    <filter id="goo" x="-20%" y="-35%" width="140%" height="170%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="14" result="blur" />
+      <feColorMatrix in="blur" mode="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 24 -10" result="gooey" />
+      <feComposite in="SourceGraphic" in2="gooey" operator="atop" />
+    </filter>
+    <filter id="glow" x="-20%" y="-40%" width="140%" height="180%">
+      <feGaussianBlur stdDeviation="4" result="blur" />
+      <feMerge><feMergeNode in="blur" /><feMergeNode in="SourceGraphic" /></feMerge>
+    </filter>
+    <mask id="nameMask">
+      <rect width="1200" height="360" fill="black" />
+      <text x="600" y="166" text-anchor="middle" font-size="78" font-weight="900" font-family="Inter,Arial,sans-serif" letter-spacing="8" fill="white">ISAIAH</text>
+      <text x="600" y="242" text-anchor="middle" font-size="72" font-weight="900" font-family="Inter,Arial,sans-serif" letter-spacing="7" fill="white">RAMIREZ</text>
+    </mask>
+    <style>
+      .name{font-family:Inter,Arial,sans-serif;font-weight:900;letter-spacing:8px;fill:#fff;filter:url(#glow);animation:nameFade 8s ease-in-out infinite}
+      .subtitle{font-family:Inter,Arial,sans-serif;font-size:20px;letter-spacing:5px;fill:#c9d8ff;animation:subtitleFade 8s ease-in-out infinite}
+      .line{stroke:url(#maizeBlue);stroke-width:3;stroke-linecap:round;animation:linePulse 8s ease-in-out infinite}
+      @keyframes nameFade{0%,24%,100%{opacity:0}36%,78%{opacity:1}}
+      @keyframes subtitleFade{0%,34%,100%{opacity:0}48%,78%{opacity:.9}}
+      @keyframes linePulse{0%,25%,100%{opacity:0;stroke-dasharray:0 800}42%,78%{opacity:.85;stroke-dasharray:520 800}}
+      @media (prefers-reduced-motion:reduce){.name,.subtitle,.line{animation:none}.name,.subtitle,.line{opacity:1}}
+    </style>
+  </defs>
+
+  <rect width="1200" height="360" rx="32" fill="url(#bg)" />
+  <circle cx="95" cy="60" r="150" fill="#2F80ED" opacity=".08" />
+  <circle cx="1090" cy="305" r="190" fill="#FFCB05" opacity=".075" />
+  <circle cx="980" cy="72" r="112" fill="#00D4FF" opacity=".06" />
+
+  <g filter="url(#goo)">
+    <circle r="46" fill="url(#blob)"><animate attributeName="cx" dur="8s" repeatCount="indefinite" values="130;310;520;600;600;920;130" /><animate attributeName="cy" dur="8s" repeatCount="indefinite" values="92;240;120;150;180;105;92" /><animate attributeName="r" dur="8s" repeatCount="indefinite" values="46;58;42;50;36;54;46" /></circle>
+    <circle r="60" fill="url(#blob)"><animate attributeName="cx" dur="8s" repeatCount="indefinite" values="1040;850;680;555;575;380;1040" /><animate attributeName="cy" dur="8s" repeatCount="indefinite" values="92;250;210;162;225;100;92" /><animate attributeName="r" dur="8s" repeatCount="indefinite" values="60;42;54;46;38;56;60" /></circle>
+    <circle r="40" fill="url(#blob)"><animate attributeName="cx" dur="8s" repeatCount="indefinite" values="245;425;590;515;485;760;245" /><animate attributeName="cy" dur="8s" repeatCount="indefinite" values="278;220;115;165;232;275;278" /><animate attributeName="r" dur="8s" repeatCount="indefinite" values="40;48;36;42;34;46;40" /></circle>
+    <circle r="54" fill="url(#blob)"><animate attributeName="cx" dur="8s" repeatCount="indefinite" values="880;705;620;670;705;1010;880" /><animate attributeName="cy" dur="8s" repeatCount="indefinite" values="282;226;142;162;235;235;282" /><animate attributeName="r" dur="8s" repeatCount="indefinite" values="54;44;52;46;36;58;54" /></circle>
+    <circle r="38" fill="url(#blob)"><animate attributeName="cx" dur="8s" repeatCount="indefinite" values="515;465;540;735;790;625;515" /><animate attributeName="cy" dur="8s" repeatCount="indefinite" values="55;145;205;150;212;295;55" /><animate attributeName="r" dur="8s" repeatCount="indefinite" values="38;48;40;42;34;46;38" /></circle>
+    <circle r="44" fill="url(#blob)"><animate attributeName="cx" dur="8s" repeatCount="indefinite" values="690;720;655;455;420;570;690" /><animate attributeName="cy" dur="8s" repeatCount="indefinite" values="70;125;220;160;235;305;70" /><animate attributeName="r" dur="8s" repeatCount="indefinite" values="44;38;48;42;36;46;44" /></circle>
+  </g>
+
+  <g mask="url(#nameMask)" filter="url(#goo)" opacity=".95">
+    <circle r="76" fill="url(#maizeBlue)"><animate attributeName="cx" dur="8s" repeatCount="indefinite" values="250;430;540;580;650;820;250" /><animate attributeName="cy" dur="8s" repeatCount="indefinite" values="180;180;180;180;210;210;180" /></circle>
+    <circle r="84" fill="url(#maizeBlue)"><animate attributeName="cx" dur="8s" repeatCount="indefinite" values="960;760;650;610;550;390;960" /><animate attributeName="cy" dur="8s" repeatCount="indefinite" values="180;180;180;215;215;215;180" /></circle>
+    <circle r="62" fill="#FFCB05" opacity=".9"><animate attributeName="cx" dur="8s" repeatCount="indefinite" values="600;520;470;530;720;760;600" /><animate attributeName="cy" dur="8s" repeatCount="indefinite" values="95;150;220;230;165;225;95" /></circle>
+  </g>
+
+  <text class="name" x="600" y="166" text-anchor="middle" font-size="78">ISAIAH</text>
+  <text class="name" x="600" y="242" text-anchor="middle" font-size="72">RAMIREZ</text>
+  <line class="line" x1="340" y1="278" x2="860" y2="278" />
+  <text class="subtitle" x="600" y="316" text-anchor="middle">DATA ENGINEERING · AI · FULL-STACK</text>
+</svg>

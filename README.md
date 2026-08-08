@@ -30,6 +30,36 @@ I enjoy turning complex ideas and unruly datasets into useful, accessible softwa
 - Creating interactive experiences with React, Three.js, and WebGL
 - Shipping fast APIs, clean data models, and practical developer tools
 
+## Selected work
+
+<details open>
+  <summary><strong>Three projects, one click away</strong></summary>
+  <br />
+  <table>
+    <tr>
+      <td width="33%" valign="top">
+        <a href="https://isaiahchonchoramirez.github.io/isaiahramirezdev/datagate/"><img src="./assets/projects/datagate.jpg" alt="DataGate data profiler preview" width="100%" /></a>
+        <h3>DataGate</h3>
+        <p>A browser-native data profiler for CSV, TSV, JSON, and JSONL files. Nothing is uploaded.</p>
+        <a href="https://isaiahchonchoramirez.github.io/isaiahramirezdev/datagate/">Live demo ↗</a> · <a href="https://github.com/Isaiahchonchoramirez/isaiahramirezdev/tree/reef/product-foundation/projects/datagate">Code</a> · <a href="https://github.com/Isaiahchonchoramirez/isaiahramirezdev/blob/reef/product-foundation/projects/datagate/README.md">README</a>
+      </td>
+      <td width="33%" valign="top">
+        <a href="https://isaiahchonchoramirez.github.io/isaiahramirezdev/rave/"><img src="./assets/projects/rave-io.jpg" alt="RAVE.IO browser beat machine preview" width="100%" /></a>
+        <h3>RAVE.IO</h3>
+        <p>A browser beat machine with synthesized instruments, genre-aware patterns, arrangement, and WAV export.</p>
+        <a href="https://isaiahchonchoramirez.github.io/isaiahramirezdev/rave/">Live demo ↗</a> · <a href="https://github.com/Isaiahchonchoramirez/isaiahramirezdev/tree/reef/product-foundation/projects/rave-io">Code</a> · <a href="https://github.com/Isaiahchonchoramirez/isaiahramirezdev/blob/reef/product-foundation/projects/rave-io/README.md">README</a>
+      </td>
+      <td width="33%" valign="top">
+        <a href="https://isaiahchonchoramirez.github.io/isaiahramirezdev/blom/"><img src="./assets/projects/blom.jpg" alt="Bløm Mead + Cider storefront preview" width="100%" /></a>
+        <h3>Bløm</h3>
+        <p>A responsive commerce experience for a Michigan mead and cider brand, with search, shop, events, and cart flows.</p>
+        <a href="https://isaiahchonchoramirez.github.io/isaiahramirezdev/blom/">Live demo ↗</a> · <a href="https://github.com/Isaiahchonchoramirez/isaiahramirezdev/tree/reef/product-foundation/projects/blom-redesign">Code</a> · <a href="https://github.com/Isaiahchonchoramirez/isaiahramirezdev/blob/reef/product-foundation/projects/blom-redesign/README.md">README</a>
+      </td>
+    </tr>
+  </table>
+  <p align="center"><a href="https://github.com/Isaiahchonchoramirez/isaiahramirezdev/tree/reef/product-foundation/projects"><strong>Explore the full project directory →</strong></a></p>
+</details>
+
 ## Featured work
 
 | Focus | What I build | Toolkit |

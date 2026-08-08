@@ -33,31 +33,89 @@ I enjoy turning complex ideas and unruly datasets into useful, accessible softwa
 ## Selected work
 
 <details open>
-  <summary><strong>Three projects, one click away</strong></summary>
+  <summary><strong>Flagship products — eight projects, one click away</strong></summary>
   <br />
   <table>
     <tr>
-      <td width="33%" valign="top">
-        <a href="https://isaiahchonchoramirez.github.io/isaiahramirezdev/datagate/"><img src="./assets/projects/datagate.jpg" alt="DataGate data profiler preview" width="100%" /></a>
+      <td width="25%" valign="top">
+        <a href="https://isaiahchonchoramirez.github.io/isaiahramirezdev/tesseraxis/index.html"><img src="./assets/projects/tesseraxis.svg" alt="Tesseraxis engineering simulation platform preview" width="100%" /></a>
+        <h3>Tesseraxis</h3>
+        <p>Inspectable engineering simulations: rockets, swarms, vehicles, and deterministic replay.</p>
+        <a href="https://isaiahchonchoramirez.github.io/isaiahramirezdev/tesseraxis/index.html">Live demo ↗</a> · <a href="https://github.com/Isaiahchonchoramirez/isaiahramirezdev/tree/main/public/tesseraxis">Code</a>
+      </td>
+      <td width="25%" valign="top">
+        <a href="https://isaiahchonchoramirez.github.io/isaiahramirezdev/trade-assistant/index.html"><img src="./assets/projects/trade-assistant.jpg" alt="AI Trade Assistant market dashboard preview" width="100%" /></a>
+        <h3>AI Trade Assistant</h3>
+        <p>Explainable market signals and lookahead-safe backtests, with a free local download.</p>
+        <a href="https://isaiahchonchoramirez.github.io/isaiahramirezdev/trade-assistant/index.html">Live demo ↗</a> · <a href="https://github.com/Isaiahchonchoramirez/ai-trade-assistant">Code</a>
+      </td>
+      <td width="25%" valign="top">
+        <a href="https://isaiahchonchoramirez.github.io/isaiahramirezdev/lyrx/index.html"><img src="./assets/projects/lyrx.jpg" alt="Lyrx browser music studio preview" width="100%" /></a>
+        <h3>Lyrx</h3>
+        <p>A full browser music studio with synths, sequencer, AI producer, and WAV export.</p>
+        <a href="https://isaiahchonchoramirez.github.io/isaiahramirezdev/lyrx/index.html">Live demo ↗</a> · <a href="https://github.com/Isaiahchonchoramirez/isaiahramirezdev/tree/main/public/lyrx">Code</a>
+      </td>
+      <td width="25%" valign="top">
+        <a href="https://isaiahchonchoramirez.github.io/isaiahramirezdev/datacore/index.html"><img src="./assets/projects/datacore.jpg" alt="DataCore governed AI training data preview" width="100%" /></a>
+        <h3>DataCore</h3>
+        <p>A rights-aware data pipeline with consent gates, classification, and removal audit trails.</p>
+        <a href="https://isaiahchonchoramirez.github.io/isaiahramirezdev/datacore/index.html">Live demo ↗</a> · <a href="https://github.com/Isaiahchonchoramirez/isaiahramirezdev/tree/main/public/datacore">Code</a>
+      </td>
+    </tr>
+    <tr>
+      <td width="25%" valign="top">
+        <a href="https://isaiahchonchoramirez.github.io/isaiahramirezdev/datagate/index.html"><img src="./assets/projects/datagate.jpg" alt="DataGate data profiler preview" width="100%" /></a>
         <h3>DataGate</h3>
-        <p>A browser-native data profiler for CSV, TSV, JSON, and JSONL files. Nothing is uploaded.</p>
-        <a href="https://isaiahchonchoramirez.github.io/isaiahramirezdev/datagate/">Live demo ↗</a> · <a href="https://github.com/Isaiahchonchoramirez/isaiahramirezdev/tree/reef/product-foundation/projects/datagate">Code</a> · <a href="https://github.com/Isaiahchonchoramirez/isaiahramirezdev/blob/reef/product-foundation/projects/datagate/README.md">README</a>
+        <p>A browser-native profiler for CSV, TSV, JSON, and JSONL files. Nothing is uploaded.</p>
+        <a href="https://isaiahchonchoramirez.github.io/isaiahramirezdev/datagate/index.html">Live demo ↗</a> · <a href="https://github.com/Isaiahchonchoramirez/isaiahramirezdev/tree/main/projects/datagate">Code</a> · <a href="https://github.com/Isaiahchonchoramirez/isaiahramirezdev/blob/main/projects/datagate/README.md">README</a>
       </td>
-      <td width="33%" valign="top">
-        <a href="https://isaiahchonchoramirez.github.io/isaiahramirezdev/rave/"><img src="./assets/projects/rave-io.jpg" alt="RAVE.IO browser beat machine preview" width="100%" /></a>
+      <td width="25%" valign="top">
+        <a href="https://isaiahchonchoramirez.github.io/isaiahramirezdev/unwritten-age/index.html"><img src="./assets/projects/unwritten-age.svg" alt="The Unwritten Age browser RPG preview" width="100%" /></a>
+        <h3>The Unwritten Age</h3>
+        <p>A procedural 3D RPG where defeating a god erases them from history.</p>
+        <a href="https://isaiahchonchoramirez.github.io/isaiahramirezdev/unwritten-age/index.html">Enter the world ↗</a> · <a href="https://github.com/Isaiahchonchoramirez/isaiahramirezdev/tree/main/public/unwritten-age">Code</a>
+      </td>
+      <td width="25%" valign="top">
+        <a href="https://isaiahchonchoramirez.github.io/isaiahramirezdev/rave/index.html"><img src="./assets/projects/rave-io.jpg" alt="RAVE.IO browser beat machine preview" width="100%" /></a>
         <h3>RAVE.IO</h3>
-        <p>A browser beat machine with synthesized instruments, genre-aware patterns, arrangement, and WAV export.</p>
-        <a href="https://isaiahchonchoramirez.github.io/isaiahramirezdev/rave/">Live demo ↗</a> · <a href="https://github.com/Isaiahchonchoramirez/isaiahramirezdev/tree/reef/product-foundation/projects/rave-io">Code</a> · <a href="https://github.com/Isaiahchonchoramirez/isaiahramirezdev/blob/reef/product-foundation/projects/rave-io/README.md">README</a>
+        <p>A beat machine with synthesized instruments, genre-aware patterns, and WAV rendering.</p>
+        <a href="https://isaiahchonchoramirez.github.io/isaiahramirezdev/rave/index.html">Live demo ↗</a> · <a href="https://github.com/Isaiahchonchoramirez/isaiahramirezdev/tree/main/projects/rave-io">Code</a> · <a href="https://github.com/Isaiahchonchoramirez/isaiahramirezdev/blob/main/projects/rave-io/README.md">README</a>
       </td>
-      <td width="33%" valign="top">
-        <a href="https://isaiahchonchoramirez.github.io/isaiahramirezdev/blom/"><img src="./assets/projects/blom.jpg" alt="Bløm Mead + Cider storefront preview" width="100%" /></a>
+      <td width="25%" valign="top">
+        <a href="https://isaiahchonchoramirez.github.io/isaiahramirezdev/blom/index.html"><img src="./assets/projects/blom.jpg" alt="Bløm Mead and Cider storefront preview" width="100%" /></a>
         <h3>Bløm</h3>
-        <p>A responsive commerce experience for a Michigan mead and cider brand, with search, shop, events, and cart flows.</p>
-        <a href="https://isaiahchonchoramirez.github.io/isaiahramirezdev/blom/">Live demo ↗</a> · <a href="https://github.com/Isaiahchonchoramirez/isaiahramirezdev/tree/reef/product-foundation/projects/blom-redesign">Code</a> · <a href="https://github.com/Isaiahchonchoramirez/isaiahramirezdev/blob/reef/product-foundation/projects/blom-redesign/README.md">README</a>
+        <p>A working Michigan mead and cider storefront with search, shop, events, and cart flows.</p>
+        <a href="https://isaiahchonchoramirez.github.io/isaiahramirezdev/blom/index.html">Live demo ↗</a> · <a href="https://github.com/Isaiahchonchoramirez/isaiahramirezdev/tree/main/projects/blom-redesign">Code</a> · <a href="https://github.com/Isaiahchonchoramirez/isaiahramirezdev/blob/main/projects/blom-redesign/README.md">README</a>
       </td>
     </tr>
   </table>
-  <p align="center"><a href="https://github.com/Isaiahchonchoramirez/isaiahramirezdev/tree/reef/product-foundation/projects"><strong>Explore the full project directory →</strong></a></p>
+  <p align="center"><a href="https://github.com/Isaiahchonchoramirez/isaiahramirezdev/tree/main/projects"><strong>Explore the full project directory →</strong></a></p>
+</details>
+
+<details>
+  <summary><strong>3D modeling, animation, and visual studies</strong></summary>
+  <br />
+  <table>
+    <tr>
+      <td width="25%"><img src="./assets/projects/maya-workstation.webp" alt="Maya workstation desk scene" width="100%" /><br /><sub><strong>Workstation environment</strong><br />Room, desk, monitors, materials, and lighting.</sub></td>
+      <td width="25%"><img src="./assets/projects/maya-tower.webp" alt="Maya modeled computer tower with cooling fans" width="100%" /><br /><sub><strong>Tower + cooling system</strong><br />Hard-surface modeling, UVs, materials, and animated fans.</sub></td>
+      <td width="25%"><img src="./assets/projects/maya-monitors.webp" alt="Maya dual monitor desk setup" width="100%" /><br /><sub><strong>Dual-monitor setup</strong><br />Display materials, mic arm, brick wall, and set dressing.</sub></td>
+      <td width="25%"><img src="./assets/projects/pizza-pete.webp" alt="Pizza Pete stylized Maya character" width="100%" /><br /><sub><strong>Pizza Pete</strong><br />Stylized character modeling, texture design, and materials.</sub></td>
+    </tr>
+  </table>
+  <p align="center"><img src="./assets/projects/maya-scene.webp" alt="Maya outdoor scene with taco truck, characters, and tree" width="24%" /><br /><sub><strong>Outdoor scene study</strong> · terrain, taco truck, characters, and environment composition</sub></p>
+  <p align="center"><a href="https://github.com/Isaiahchonchoramirez/isaiahramirezdev/tree/main/public/images/projects/maya"><strong>See the full Maya gallery →</strong></a></p>
+</details>
+
+<details>
+  <summary><strong>Analysis, modeling, and research projects</strong></summary>
+  <br />
+  <table>
+    <tr><td><strong>Sports Forecast Engine</strong><br />Dependency-free C++20 Poisson model with chronological holdout evaluation. <a href="https://github.com/Isaiahchonchoramirez/isaiahramirezdev/blob/main/projects/sports-forecast-engine/README.md">README ↗</a></td><td><strong>Michigan Lead-Risk Analysis</strong><br />83-county public-health join across housing, water, and childhood EBLL indicators. <a href="https://isaiahchonchoramirez.github.io/isaiahramirezdev/#michigan-lead-risk">Case study ↗</a></td></tr>
+    <tr><td><strong>Occupy Space</strong><br />Normalized NASA NEO + APOD pipeline with SQLite storage and hazard analysis. <a href="https://isaiahchonchoramirez.github.io/isaiahramirezdev/#occupy-space">Case study ↗</a></td><td><strong>Crop-Yield Efficiency</strong><br />Irrigation, fertilizer, rainfall efficiency, and tested crop-relative comparisons. <a href="https://isaiahchonchoramirez.github.io/isaiahramirezdev/#crop-yield">Case study ↗</a></td></tr>
+    <tr><td><strong>Networks, Homophily &amp; Polarization</strong><br />Three real networks plus 1,000-node simulations of closure mechanisms. <a href="https://isaiahchonchoramirez.github.io/isaiahramirezdev/#network-polarization">Case study ↗</a></td><td><strong>Mapping Lansing’s HOLC Grades</strong><br />Area-weighted historical redlining audit using projected spatial boundaries. <a href="https://isaiahchonchoramirez.github.io/isaiahramirezdev/#lansing-redlining">Case study ↗</a></td></tr>
+  </table>
+  <p align="center"><a href="https://isaiahchonchoramirez.github.io/isaiahramirezdev/#projects"><strong>Browse the portfolio case studies →</strong></a></p>
 </details>
 
 ## Featured work

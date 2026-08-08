@@ -89,7 +89,7 @@ I enjoy turning complex ideas and unruly datasets into useful, accessible softwa
       </td>
     </tr>
   </table>
-  <p align="center"><a href="https://github.com/Isaiahchonchoramirez/isaiahramirezdev/tree/main/projects"><strong>Explore the full project directory →</strong></a></p>
+  <p align="center"><a href="https://isaiahchonchoramirez.github.io/isaiahramirezdev/#/projects"><strong>Explore the full project directory →</strong></a></p>
 </details>
 
 <details>
